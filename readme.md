@@ -7,7 +7,11 @@
 
 ### 🙋🏿My profile🙋🏿
 
-<img src="https://img.shields.io/badge/Discord-FFFFFF?style=flat&logo=Discord&logoColor=00000"/> <img src="https://img.shields.io/badge/Instagram-FFFFFF?style=flat&logo=Instagram&logoColor=00000"/> <img src="https://img.shields.io/badge/Github-FFFFFF?style=flat&logo=Github&logoColor=000000"/>
+<a href="https://www.discord.com/users/666536299011768320"><img src="https://img.shields.io/badge/Discord-FFFFFF?style=flat&logo=Discord&logoColor=00000"/></a>
+ <a href="https://www.instagram.com/k._.dh_714/"><img src="https://img.shields.io/badge/Instagram-FFFFFF?style=flat&logo=Instagram&logoColor=00000"/></a>
+ <a href="https://github.com/Swxp714"><img src="https://img.shields.io/badge/Github-FFFFFF?style=flat&logo=Github&logoColor=000000"/></a>
+
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSwxp714&count_bg=%232F80ED&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
