@@ -6,7 +6,7 @@
 
 ### My profile  
 
-<img src="https://img.shields.io/badge/Discord-000000?style=flat&logo=Discord&logoColor=white"/> <img src="https://img.shields.io/badge/Instagram-000000?style=flat&logo=Instagram&logoColor=white"/> <img src="https://img.shields.io/badge/Github-000000?style=flat&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discord-FFFFFF?style=flat&logo=Discord&logoColor=00000"/> <img src="https://img.shields.io/badge/Instagram-FFFFFF?style=flat&logo=Instagram&logoColor=00000"/> <img src="https://img.shields.io/badge/Github-FFFFFF?style=flat&logo=Github&logoColor=000000"/>
 
 
 
