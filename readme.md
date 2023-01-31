@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=Soft&color=000000&height=200&section=header&text=Swxp%20Github&fontColor=FFFFFF&fontSize=60&fontAlignY=50&desc=Hello,world!&descSize=25&descColor=&descAlign=63&descAlignY=65)
+![header](https://capsule-render.vercel.app/api?type=Soft&color=0e1116&height=200&section=header&text=Swxp%20Github&fontColor=FFFFFF&fontSize=60&fontAlignY=50&desc=Hello,world!&descSize=25&descColor=&descAlign=63&descAlignY=65)
 
 
 ㅤ
@@ -36,4 +36,4 @@
 
 ㅤ
 
-![Swxp's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swxp714&show_icons=true&bg_color=00000000&text_color=FFFFFF)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swxp714&theme=github_dark&show_icons=true&title_color=2f80ed)
